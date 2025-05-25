@@ -1,0 +1,12 @@
+name: Minesweeper
+author: Ваше Имя
+description: Классическая игра сапёр в Revit с WPF и IronPython
+version: 1.0
+revit:
+  - 2021
+  - 2022
+  - 2023
+  - 2024
+extension:
+  commands:
+    - script.py
